@@ -9,5 +9,7 @@ Below is the output of the code snippet:
 
 Difficulty in picking out the secret message whether its a text or an image? Haha crazy right, that's what one calls steganography.
 
+Soon i will be updating this snippet and make it available to you for hiding text and images...
+
 
 ![overlapping_images](https://user-images.githubusercontent.com/66552063/122211122-005def00-cec4-11eb-82bf-4869a7921835.png)
