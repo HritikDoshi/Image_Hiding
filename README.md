@@ -1,4 +1,4 @@
-# Image_hiding
+# Image_hiding/ Steganography
 
 Do you know Steganography?
 
