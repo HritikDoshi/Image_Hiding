@@ -7,7 +7,7 @@ This is a small snippet where I tried steganography using two images with python
 
 Below is the output of the code snippet:
 
-Difficulty in picking out the secret message? Haha crazy right, that's what one calls steganography.
+Difficulty in picking out the secret message whether its a text or an image? Haha crazy right, that's what one calls steganography.
 
 
 ![overlapping_images](https://user-images.githubusercontent.com/66552063/122211122-005def00-cec4-11eb-82bf-4869a7921835.png)
